@@ -1,13 +1,13 @@
 # Steps to create sprite from SVG images:
 
-1. Put svg images in data/sprites/\_svg directory
+1. Put svg images in data/sprites/\_svg directory.
 
-2. Run docker, mount data to docker container
+2. Run docker, mount data to docker container.
 
 ```
-docker run -it -v C:/Work/Code/test/data:/data dolomate/spritezero
+docker run -it -v C:/Work/Code/test/data:/data dolomate/spritezero.
 ```
 
-In this case the directory where data lives is `C:/Work/Code/test/`, change accordingly
+In this case the directory where data lives is `C:/Work/Code/test/`, change accordingly.
 
-3. The SVG images should now be converted to a sprites.json and sprites.png and placed within the working directory
+3. The SVG images should now be converted to a sprites.json and sprites.png and placed within the working directory.
