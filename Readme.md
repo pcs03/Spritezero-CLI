@@ -5,7 +5,7 @@
 2. Run docker, mount data to docker container.
 
 ```
-docker run -it -v C:/Work/Code/test/data:/data dolomate/spritezero
+docker run -it -v C:/Work/Code/Spritezero-CLI/data:/data dolomate/spritezero
 ```
 
 In this case the directory where data lives is `C:/Work/Code/Spritezero-CLI/`, change accordingly.
