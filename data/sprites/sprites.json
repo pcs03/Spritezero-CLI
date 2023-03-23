@@ -1,30 +1,51 @@
 {
-  "dme": {
-    "height": 128,
+  "ap": {
+    "height": 64,
     "pixelRatio": 1,
-    "width": 128,
+    "width": 64,
+    "x": 64,
+    "y": 0
+  },
+  "dme": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 0,
+    "y": 256
+  },
+  "ils": {
+    "height": 256,
+    "pixelRatio": 1,
+    "width": 64,
     "x": 0,
     "y": 0
+  },
+  "ndb": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 64,
+    "y": 256
   },
   "vor": {
-    "height": 128,
+    "height": 64,
     "pixelRatio": 1,
-    "width": 128,
-    "x": 128,
-    "y": 0
+    "width": 64,
+    "x": 0,
+    "y": 320
   },
   "vordme": {
-    "height": 128,
+    "height": 64,
     "pixelRatio": 1,
-    "width": 128,
-    "x": 0,
-    "y": 128
+    "width": 64,
+    "x": 64,
+    "y": 320
   },
   "wp": {
-    "height": 128,
+    "height": 64,
     "pixelRatio": 1,
-    "width": 128,
-    "x": 128,
-    "y": 128
+    "width": 64,
+    "x": 0,
+    "y": 384
   }
 }
