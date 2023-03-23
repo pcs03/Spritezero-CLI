@@ -1,16 +1,30 @@
 {
   "dme": {
-    "height": 708,
+    "height": 256,
     "pixelRatio": 2,
-    "width": 1188,
+    "width": 256,
     "x": 0,
     "y": 0
   },
   "vor": {
-    "height": 708,
+    "height": 256,
     "pixelRatio": 2,
-    "width": 818,
-    "x": 1188,
+    "width": 256,
+    "x": 256,
     "y": 0
+  },
+  "vordme": {
+    "height": 256,
+    "pixelRatio": 2,
+    "width": 256,
+    "x": 0,
+    "y": 256
+  },
+  "wp": {
+    "height": 256,
+    "pixelRatio": 2,
+    "width": 256,
+    "x": 256,
+    "y": 256
   }
 }
